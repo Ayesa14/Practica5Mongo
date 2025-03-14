@@ -1,3 +1,5 @@
+package com.example.practica5mongoservice.excepciones;
+
 /**
  * Excepcion personalizada del Id
  */

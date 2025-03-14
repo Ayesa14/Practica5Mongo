@@ -1,6 +1,8 @@
 package com.example.practica5mongoservice.service;
 
 
+import com.example.practica5mongoservice.model.entity.Album;
+
 import java.util.List;
 
 /**

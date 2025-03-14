@@ -1,5 +1,7 @@
 package com.example.practica5mongoservice.service;
 
+import com.example.practica5mongoservice.model.entity.Grupo;
+
 import java.util.List;
 
 /**
@@ -32,6 +34,7 @@ public class MongoGrupoService {
 
     /**
      * Metodo que devuelve todos los grupos de la base de datos
+     *
      * @return la lista de grupos
      */
     public List<Grupo> getListGrupo(){

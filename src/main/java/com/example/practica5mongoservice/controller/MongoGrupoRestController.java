@@ -1,6 +1,12 @@
 package com.example.practica5mongoservice.controller;
 
 
+import com.example.practica5mongoservice.model.dto.GrupoDTO;
+import com.example.practica5mongoservice.model.entity.Grupo;
+import com.example.practica5mongoservice.service.MongoGrupoService;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+
 import java.util.List;
 
 /**
